@@ -3,4 +3,6 @@
  
  This notebook is about data wrangling of baseball statistics in `polars`.
  League ERA and slugging percentage (SLG) were compared between two leagues (American League and National League) before and after the DH rule (Designated Hitter) had been introduced.
+
+ The original data and output csv files are in the Data folder.
  
